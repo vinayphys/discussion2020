@@ -11,11 +11,11 @@ This page contains the details that come out of the discussions held almost each
 
 Some of the speakers listed below have volunteered to lead a set of discussions on the topic of their choice:
 
-Amir		  :	TBA 
-Chandrani	:	Chromatin remodelling during cell fate decision 
-Devanand	:	TBA 
-Pavitra		:	TBA 
-Sreevidya	:	TBA 
+Amir		  :	TBA  
+Chandrani	:	Chromatin remodelling during cell fate decision  
+Devanand	:	TBA  
+Pavitra		:	TBA  
+Sreevidya	:	TBA  
 Vinay		  :	Glassy dynamics in embryonic tissues 
 
 ## The Upcoming Discussion:
