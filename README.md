@@ -16,7 +16,7 @@ Chandrani	:	Chromatin remodelling during cell fate decision
 Devanand	:	TBA 
 Pavitra		:	TBA 
 Sreevidya	:	TBA 
-Vinay		:	Glassy dynamics in embryonic tissues 
+Vinay		  :	Glassy dynamics in embryonic tissues 
 
 ## The Upcoming Discussion:
 Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
