@@ -31,5 +31,3 @@ Venue   :      Room No. 327 or 326
 * Some of the old discussions are archived [here.](https://www.imsc.res.in/~kamalt/discussions.html)
 * Also [here.](https://vinayphys.github.io/discussion/)
 
-
-
