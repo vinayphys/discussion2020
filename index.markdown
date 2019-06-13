@@ -3,7 +3,7 @@ layout: page
 title: Student Discussion Group  
 subtitle: Condensed Matter and Biological Physics
 ---
-# A Dicussion Group of Graduate Students at IMSc
+# A Discussion Group of Graduate Students at IMSc
 
 This page contains the details that come out of the discussions held almost each week on Friday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
