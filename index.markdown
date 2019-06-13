@@ -13,7 +13,7 @@ Some of the speakers listed below have volunteered to lead a set of discussions 
 
 Amir	  	:	TBA  
 Chandrani	:	Chromatin remodelling during cell fate decision  
-Devanand	:	TBA  
+Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	TBA  
 Sreevidya	:	TBA  
 Vinay		  :	Glassy dynamics in embryonic tissues  
