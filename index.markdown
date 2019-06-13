@@ -23,7 +23,7 @@ Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)
 Date    :      June 28, 2019, Friday
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion/2017/10/Diffusion-4)
+[More details](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues)
 
   
 
