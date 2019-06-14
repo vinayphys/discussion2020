@@ -15,7 +15,7 @@ Amir	  	:	TBA
 Chandrani	:	Chromatin remodelling during cell fate decision  
 Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	TBA  
-Sreevidya	:	Intinsic disordered proteins - an enigma!
+Sreevidya	:	Intinsic disordered proteins - an enigma!  
 Vinay		  :	Glassy dynamics in embryonic tissues  
 
 If you are also interested in discussing something then please mail us with the details.
