@@ -3,8 +3,7 @@ layout: post
 title:  "Glassy Dynamics in Embryonic Tissues"
 date:   2019-06-21 18:52:21 -0500
 ---
-
-[Vinay](https://www.imsc.res.in/~vinayv/) will lead the first discussion of this season. He will be talking about an aspect of developmental biology where researchers have shown similarity between micromechanical movement of embryonic cells and glassy dynamics. Such study is expected to reveal the 
+[Vinay](https://www.imsc.res.in/~vinayv/) will initiate the first discussion of this season. He will be talking about an aspect of developmental biology where researchers have shown a similarity between micromechanical movements of embryonic cells and glassy dynamics. The tools from glassy physics can help in understanding the behavioral change of a group of cells from fluid-like to solid-like. Such a study is expected to reveal the intricacies of organs gaining their shape during embryonic development. 
 
 ## Time and venue for the Discussion:
 **Time:** Friday (June 21, 2019), 2:15 PM  
