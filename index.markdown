@@ -5,7 +5,7 @@ subtitle: Condensed Matter and Biological Physics
 ---
 # A Discussion Group of Graduate Students at IMSc
 
-This page contains the details that come out of the discussions held almost each week on Friday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
+This page contains the details that come out of the discussions held almost every week on Friday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
 ## Discussion Topics:
 
@@ -17,6 +17,8 @@ Devanand	:	“Water-free” computer model for fluid bilayer membranes
 Pavitra		:	TBA  
 Sreevidya	:	TBA  
 Vinay		  :	Glassy dynamics in embryonic tissues  
+
+If you are also interested in discussing something then please mail us with the details.
 
 ## The Upcoming Discussion:
 Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
