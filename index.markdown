@@ -27,7 +27,9 @@ Time    :      14:15
 Venue   :      Room No. 327 or 326  
 [More details](https://vinayphys.github.io/discussion2019/2019/06/enhancer_activity_during_embryonic_development)
 
-[Here are the Slides from the last discussion by Vinay](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf)
+
+## Slides from last discussion:
+[Here are the Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/enhancer_activity_during_embryonic_development)
 
   
 
