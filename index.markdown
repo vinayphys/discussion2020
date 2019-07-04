@@ -22,7 +22,7 @@ If you also want to be the part of the discussion group then please mail us with
 
 ## The Upcoming Discussion:
 Speaker :      [Chandrani Kumari](https://www.imsc.res.in/chandrani_kumari)  
-Date    :      June 28, 2019, Friday  
+Date    :      July 5, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
 [More details](https://vinayphys.github.io/discussion2019/2019/06/enhancer_activity_during_embryonic_development)
