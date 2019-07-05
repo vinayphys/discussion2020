@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"
+title:  "Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development-II"
 date:   2019-07-05 18:52:21 -0500
 ---
 [Chandrani](https://www.imsc.res.in/chandrani_kumari) will talk about the enhancer activity during embryonic development. It has been known from literature that chromatin modifications are linked to many aspects of gene expression but their role in cellular transition during development still needs more understanding. In this discussion we will try to understand a new approch towards obtaining cell type specific information on chromatin state and RNA Pol II occupancy within the multicellular <em>Drosophila melanogaster</em> embryo. 
