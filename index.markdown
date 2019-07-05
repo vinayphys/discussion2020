@@ -25,7 +25,7 @@ Speaker :      [Chandrani Kumari](https://www.imsc.res.in/chandrani_kumari)
 Date    :      July 5, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/06/enhancer_activity_during_embryonic_development)
+[More details](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
 
 
 ## Slides from last discussion:
