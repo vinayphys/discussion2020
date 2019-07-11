@@ -20,11 +20,11 @@ Vinay		  :	Glassy dynamics in embryonic tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Chandrani Kumari](https://www.imsc.res.in/chandrani_kumari)  
-Date    :      July 5, 2019, Friday  
+Speaker :      [T S Sreevidya](https://www.imsc.res.in/sreevidya_t_s)  
+Date    :      July 12, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
+[More details](https://vinayphys.github.io/discussion2019/2019/07/intrinsically_disordered_proteins)
 
 
 ## Slides from last discussion:
