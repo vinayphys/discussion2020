@@ -24,7 +24,7 @@ Speaker :      [T S Sreevidya](https://www.imsc.res.in/sreevidya_t_s)
 Date    :      July 12, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://github.com/vinayphys/discussion2019/blob/master/_posts/2019-07-12-Intrinsically_disordered_proteins.markdown)
+[More details](https://vinayphys.github.io/discussion2019/2019/12/Intrinsically_disordered_proteins)
 
 
 ## Slides from last discussion:
