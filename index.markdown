@@ -30,6 +30,8 @@ Venue   :      Room No. 327 or 326
 ## Slides from last discussion:
 [Here are the Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues)
 
+[Here are the Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the last discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues)
+
   
 
 ## Archived Previous Year Discussions :  
