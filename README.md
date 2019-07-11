@@ -11,7 +11,6 @@ This page contains the details that come out of the discussions held almost ever
 
 Some of the speakers listed below have volunteered to lead a set of discussions on the topic of their choice:
 
-Amir	  	:	TBA  
 Chandrani	:	Chromatin remodelling during cell fate decision  
 Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	Genome Instabilities  
