@@ -6,7 +6,7 @@ date:   2019-07-26 18:52:21 -0500
 [Pavitra](https://www.imsc.res.in/pavitra_s) will be presenting on the role of genomic instability and its contribution to the genetic and phenotypic variation observed within and between the tumors
 
 ## Time and venue for the Discussion:
-**Time:** Friday (July 12, 2019), 2:15 PM  
+**Time:** Friday (July 26, 2019), 2:15 PM  
 **Venue:** 326/327  
 
 ## Some references for the discussion:
