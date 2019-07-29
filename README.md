@@ -14,23 +14,29 @@ Some of the speakers listed below have volunteered to lead a set of discussions 
 Chandrani	:	Chromatin remodelling during cell fate decision  
 Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	Genome Instabilities  
+Rakshika  : Memory  
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
 Vinay		  :	Glassy dynamics in embryonic tissues  
 
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [T S Sreevidya](https://www.imsc.res.in/sreevidya_t_s)  
-Date    :      July 12, 2019, Friday  
+Speaker :      [Rakshika Lakshmi A](https://www.imsc.res.in/rakshika_lakshmi)  
+Date    :      August 2, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/07/intrinsically_disordered_proteins)
+[More details](https://vinayphys.github.io/discussion2019/2019/08/memory)
 
 
 ## Slides from last discussion:
-[Here are the Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues). 
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/genomic_instability.pdf) from the last discussion by Pavitra on ["The causes and consequences of genetic heterogeneity in cancer evolution"](https://vinayphys.github.io/discussion2019/2019/07/genomic_instability).  
 
-[Here are the Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the last discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
+[Slides]() from the last discussion by Sreevidya on ["Intrinsically disordered proteins"](https://vinayphys.github.io/discussion2019/2019/07/intrinsically_disordered_proteins).
+
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the last discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
+
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues). 
+
 
   
 
