@@ -3,7 +3,7 @@ layout: post
 title:  "The role structural plasticity in producing nonrandom neural connectivity"
 date:   2019-08-2 18:52:21 -0500
 ---
-[Rakshika](https://www.imsc.res.in/rakshika_lakshmi) will talk about the role structural plasticity in producing nonrandom neural connectivity. The adult brain has been considered stable and unchanging, except for the decline that occurs with aging. This view is now being challenged with clear evidence that structural changes occur in the brain throughout life. This study is about the impact of reconfiguration of neural connections on circuit topology and connection strength. The author shows that structural plasticity yields highly inter connected clusters of neurons that are responsive to the same stimulus
+[Rakshika](https://www.imsc.res.in/rakshika_lakshmi) will talk about the role structural plasticity in producing nonrandom neural connectivity. The adult brain has been considered stable and unchanging, except for the decline that occurs with aging. This view is now being challenged with clear evidence that structural changes occur in the brain throughout life. This study is about the impact of reconfiguration of neural connections on circuit topology and connection strength. The author shows that structural plasticity yields highly inter connected clusters of neurons that are responsive to the same stimulus.
 
 ## Time and venue for the Discussion:
 **Time:** Friday (Agust 2, 2019), 2:15 PM  
