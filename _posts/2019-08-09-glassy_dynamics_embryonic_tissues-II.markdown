@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Glassy Dynamics in Embryonic Tissues"
+title:  "Glassy Dynamics in Embryonic Tissues-II"
 date:   2019-08-09 18:52:21 -0500
 ---
 
 Researchers have shown a similarity between micromechanical movements of embryonic cells and glassy dynamics. The tools from glassy physics can help in understanding the behavioral change of a group of cells from fluid-like to solid-like. Such a study is expected to reveal the intricacies of organs gaining their shape during embryonic development. 
 
 
-[Vinay](https://www.imsc.res.in/~vinayv/) will continue the discussion "Glassy Dynamics in Embryonic Tissues".  
+[Vinay](https://www.imsc.res.in/~vinayv/) will continue the discussion on "Glassy Dynamics in Embryonic Tissues". In the last discussion he introduced the basic phenomenology of glassy systems and then he also discussed the similarity of the cell motion in embryonic tissues with glassy dynamics. This week, he will be talking about the models capable of explaining the cell dynamics.
 
 ## Time and venue for the Discussion:
 **Time:** Friday (August 09, 2019), 2:15 PM  
