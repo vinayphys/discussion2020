@@ -21,11 +21,11 @@ Vinay		  :	Glassy dynamics in embryonic tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Rakshika Lakshmi A](https://www.imsc.res.in/rakshika_lakshmi)  
-Date    :      August 2, 2019, Friday  
+Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
+Date    :      August 09, 2019, Friday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/08/memory)
+[More details](https://vinayphys.github.io/discussion2019/2019/08/glassy_dynamics_embryonic_tissues-II)
 
 
 ## Slides from last discussion:
