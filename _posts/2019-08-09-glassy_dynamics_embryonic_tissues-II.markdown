@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glassy Dynamics in Embryonic Tissues-II"
+title:  "Glassy Dynamics in Biological Tissues"
 date:   2019-08-09 18:52:21 -0500
 ---
 
