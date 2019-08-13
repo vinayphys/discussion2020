@@ -29,7 +29,7 @@ Venue   :      Room No. 327 or 326
 
 
 ## Slides from last discussion:
-[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_2.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_biological_tissues). 
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_2.pdf) from the last discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/08/glassy_dynamics_embryonic_tissues-II). 
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/genomic_instability.pdf) from the last discussion by Pavitra on ["The causes and consequences of genetic heterogeneity in cancer evolution"](https://vinayphys.github.io/discussion2019/2019/07/genomic_instability).  
 
