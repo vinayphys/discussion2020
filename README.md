@@ -14,7 +14,7 @@ Some of the speakers listed below have volunteered to lead a set of discussions 
 Chandrani	:	Chromatin remodelling during cell fate decision  
 Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	Genome Instabilities  
-Rakshika  : Memory  
+Rakshika  : Memory and plsticity 
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
 Vinay		  :	Glassy dynamics in biological tissues  
 
