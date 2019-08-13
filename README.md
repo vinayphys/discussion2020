@@ -16,7 +16,7 @@ Devanand	:	“Water-free” computer model for fluid bilayer membranes
 Pavitra		:	Genome Instabilities  
 Rakshika  : Memory  
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
-Vinay		  :	Glassy dynamics in embryonic tissues  
+Vinay		  :	Glassy dynamics in biological tissues  
 
 If you also want to be the part of the discussion group then please mail us with the details.
 
