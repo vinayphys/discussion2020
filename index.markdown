@@ -14,14 +14,14 @@ Some of the speakers listed below have volunteered to lead a set of discussions 
 Chandrani	:	Machine learning in healthcare   
 Devanand	:	“Water-free” computer model for fluid bilayer membranes  
 Pavitra		:	Genome Instabilities  
-Rakshika  : Memory and plsticity 
+Rakshika  : Memory and plsticity  
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
 Vinay		  :	Glassy dynamics in biological tissues  
 
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Sreevidya](https://www.imsc.res.in/sreevidya_t_s)
+Speaker :      [Sreevidya](https://www.imsc.res.in/sreevidya_t_s)  
 Date    :      September 03, 2019, Tuesday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
