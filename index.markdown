@@ -5,7 +5,7 @@ subtitle: Condensed Matter and Biological Physics
 ---
 # A Discussion Group of Graduate Students at IMSc
 
-This page contains the details that come out of the discussions held almost every week on Friday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
+This page contains the details that come out of the discussions held almost every week on Tuesday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
 ## Discussion Topics:
 
@@ -21,11 +21,11 @@ Vinay		  :	Glassy dynamics in biological tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Chandrani Kumari](https://www.imsc.res.in/chandrani_kumari)  
-Date    :      August 16, 2019, Friday  
+Speaker :      [Sreevidya](https://www.imsc.res.in/sreevidya_t_s)
+Date    :      September 03, 2019, Tuesday  
 Time    :      14:15   
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/08/healthcare_machine_learning)
+[More details](https://vinayphys.github.io/discussion2019/2019/09/conformational_entropy_of_IDP)
 
 
 ## Slides from previous discussions:
