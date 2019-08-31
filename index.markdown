@@ -24,7 +24,7 @@ If you also want to be the part of the discussion group then please mail us with
 Speaker :      [Sreevidya](https://www.imsc.res.in/sreevidya_t_s)  
 Date    :      September 03, 2019, Tuesday  
 Time    :      14:15   
-Venue   :      Room No. 327 or 326  
+Venue   :      Room No. 327 or 326 or 117
 [More details](https://vinayphys.github.io/discussion2019/2019/09/conformational_entropy_of_IDP)
 
 
