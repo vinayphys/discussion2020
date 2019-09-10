@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Conformational Entropy of Intrinsically Disordered Proteins from Amino Acid Triads"
-date:   2019-09-03 18:52:21 -0500
+date:   2019-09-10 18:52:21 -0500
 ---
 
 
 [Sreevidya](https://www.imsc.res.in/sreevidya_t_s) will discuss the numerical study of IDPs. This study shows that only the sequence information in terms of the relative amino acid triad composition may be sufficient to predict protein disorder and the backbone conformational entropy, even in the absence of well-defined structure.
 
 ## Time and venue for the Discussion:
-**Time:** Tuesday (September 03, 2019), 2:15 PM  
+**Time:** Tuesday (September 10, 2019), 2:15 PM  
 **Venue:** 326/327/117  
 
 ## Reference for the discussion:
