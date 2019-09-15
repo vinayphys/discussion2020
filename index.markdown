@@ -21,14 +21,18 @@ Vinay		  :	Glassy dynamics in biological tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Sreevidya](https://www.imsc.res.in/sreevidya_t_s)  
-Date    :      September 10, 2019, Tuesday  
+Speaker :      [S Pavitra](https://www.imsc.res.in/pavitra_s)  
+Date    :      September 17, 2019, Tuesday  
 Time    :      14:15   
-Venue   :      Room No. 327 or 326 or 117  
-[More details](https://vinayphys.github.io/discussion2019/2019/09/conformational_entropy_of_IDP)
+Venue   :      Room No. 327 or 326  
+[More details](https://vinayphys.github.io/discussion2019/2019/09/cancer_genome_landscape)
 
 
 ## Slides from previous discussions:
+
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Conformational_Entropy_of_IDP_SreeVidya.pdf) from the discussion by SreeVidya on ["Conformational Entropy of Intrinsically Disordered Proteins from Amino Acid Triads"](https://vinayphys.github.io/discussion2019/2019/09/conformational_entropy_of_IDP). 
+
+
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_2.pdf) from the discussion by Vinay on ["Glassy dynamics in biological tissues"](https://vinayphys.github.io/discussion2019/2019/08/glassy_dynamics_embryonic_tissues-II). 
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/genomic_instability.pdf) from the discussion by Rakshika on ["The role of structural plasticity in producing non random neural connectivity"](https://vinayphys.github.io/discussion2019/2019/08/memory).
