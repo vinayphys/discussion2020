@@ -10,6 +10,6 @@ This week [Pavitra](https://www.imsc.res.in/pavitra_s) will be presenting a revi
 
 ## Some references for the discussion:
 
-1. Rizvi, Naiyer A., et al. ["Mutational landscape determines sensitivity to PD-1 blockade in non–small cell lung cancer."](https://science.sciencemag.org/content/339/6127/1546/tab-pdf) Science 348.6230 (2015): 124-128.
+1. Vogelstein, Bert, et al. ["Cancer genome landscapes."](https://science.sciencemag.org/content/339/6127/1546/tab-pdf) science 339.6127 (2013): 1546-1558.
 
 For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
