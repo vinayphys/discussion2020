@@ -30,6 +30,8 @@ Venue   :      Room No. 123 or 117
 
 ## Slides from previous discussions:
 
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/cancer_Genome_landscape_pavitra.pdf) from the discussion by S Pavitra on ["Cancer genome landscapes"](https://vinayphys.github.io/discussion2019/2019/09/cancer_genome_landscape). 
+
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Conformational_Entropy_of_IDP_SreeVidya.pdf) from the discussion by SreeVidya on ["Conformational Entropy of Intrinsically Disordered Proteins from Amino Acid Triads"](https://vinayphys.github.io/discussion2019/2019/09/conformational_entropy_of_IDP). 
 
 
