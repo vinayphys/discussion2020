@@ -21,11 +21,11 @@ Vinay		  :	Glassy dynamics in biological tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [S Pavitra](https://www.imsc.res.in/pavitra_s)  
-Date    :      September 17, 2019, Tuesday  
+Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
+Date    :      September 24, 2019, Tuesday  
 Time    :      14:15   
-Venue   :      Room No. 327 or 326  
-[More details](https://vinayphys.github.io/discussion2019/2019/09/cancer_genome_landscape)
+Venue   :      Room No. 123 or 117  
+[More details](https://vinayphys.github.io/discussion2019/2019/09/Rigidity_transition)
 
 
 ## Slides from previous discussions:
