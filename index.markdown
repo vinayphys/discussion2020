@@ -11,11 +11,12 @@ This page contains the details that come out of the discussions held almost ever
 
 Some of the speakers listed below have volunteered to lead a set of discussions on the topic of their choice:
 
-Chandrani	:	Machine learning in healthcare    
-Pavitra		:	Genome Instabilities  
-Rakshika  : Memory and plsticity  
-Sreevidya	:	Intinsic disordered proteins - an enigma!  
-Vinay		  :	Glassy dynamics in biological tissues  
+Chandrani	    :	Machine learning in healthcare    
+Pavitra		    :	Genome Instabilities  
+Rakshika      : Memory and plsticity  
+Sreevidya	    :	Intinsic disordered proteins - an enigma!  
+Vinay		      :	Glassy dynamics in biological tissues 
+Chandrashekar : Stochastic Resonance
 
 If you also want to be the part of the discussion group then please mail us with the details.
 
@@ -48,9 +49,9 @@ Venue   :      Room No. 123 or 117
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/IDPs-Intro_Sreevidya.pdf) from the discussion by Sreevidya on ["Intrinsically disordered proteins"](https://vinayphys.github.io/discussion2019/2019/07/intrinsically_disordered_proteins).
 
-[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development-II"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development-II)
 
-[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development)
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/Chandrani_discussion.pdf) from the discussion by Chandrani on ["Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development-I"](https://vinayphys.github.io/discussion2019/2019/07/enhancer_activity_during_embryonic_development)
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_1.pdf) from the discussion by Vinay on ["Glassy dynamics in embryonic tissues"](https://vinayphys.github.io/discussion2019/2019/06/glassy_dynamics_embryonic_tissues). 
 
