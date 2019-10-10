@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rigidity transition in biological tissues"
-date:   2019-09-17 18:52:21 -0500
+date:   2019-09-24 18:52:21 -0500
 ---
 This week [Vinay](https://www.imsc.res.in/~vinayv/) will continue his previous discussions on biological tissues, where he discussed the similarity in the dynamics of tissues with glasses. Now he will discuss the model where the tissues gaining rigidity, will be explained. 
 
