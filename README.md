@@ -15,7 +15,7 @@ Chandrani	    :	Machine learning in healthcare
 Pavitra		    :	Genome Instabilities  
 Rakshika      : Memory and plsticity  
 Sreevidya	    :	Intinsic disordered proteins - an enigma!  
-Vinay		      :	Glassy dynamics in biological tissues 
+Vinay		      :	Glassy dynamics in biological tissues  
 Chandrashekar : Stochastic Resonance
 
 If you also want to be the part of the discussion group then please mail us with the details.
