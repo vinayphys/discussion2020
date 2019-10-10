@@ -11,8 +11,7 @@ This page contains the details that come out of the discussions held almost ever
 
 Some of the speakers listed below have volunteered to lead a set of discussions on the topic of their choice:
 
-Chandrani	:	Machine learning in healthcare   
-Devanand	:	“Water-free” computer model for fluid bilayer membranes  
+Chandrani	:	Machine learning in healthcare    
 Pavitra		:	Genome Instabilities  
 Rakshika  : Memory and plsticity  
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
@@ -21,14 +20,16 @@ Vinay		  :	Glassy dynamics in biological tissues
 If you also want to be the part of the discussion group then please mail us with the details.
 
 ## The Upcoming Discussion:
-Speaker :      [Chandrani Kumari](https://www.imsc.res.in/chandrani_kumari)  
-Date    :      October 1, 2019, Tuesday  
+Speaker :      [Chandrashekar K A](https://www.imsc.res.in/chandrashekar_k)  
+Date    :      October 15, 2019, Tuesday  
 Time    :      14:15   
 Venue   :      Room No. 123 or 117  
-[More details](https://vinayphys.github.io/discussion2019/2019/10/lipid_classification_ML)
+[More details](https://vinayphys.github.io/discussion2019/2019/10/stochastic_resonance)
 
 
 ## Slides from previous discussions:
+
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/lipid_Classification_ml_chandrani.pdf) from the discussion by Chandrani on ["A machine learning assessment of the two states model for lipid bilayer phase transitions"](https://vinayphys.github.io/discussion2019/2019/10/stochastic_resonance). 
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_3.pdf) from the discussion by Vinay on ["Rigidity transition in biological tissues"](https://vinayphys.github.io/discussion2019/2019/09/Rigidity_transition). 
 
