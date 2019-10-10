@@ -30,7 +30,7 @@ Venue   :      Room No. 123 or 117
 
 ## Slides from previous discussions:
 
-[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/lipid_Classification_ml_chandrani.pdf) from the discussion by Chandrani on ["A machine learning assessment of the two states model for lipid bilayer phase transitions"](https://vinayphys.github.io/discussion2019/2019/10/slipid_classification_ML). 
+[Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/lipid_Classification_ml_chandrani.pdf) from the discussion by Chandrani on ["A machine learning assessment of the two states model for lipid bilayer phase transitions"](https://vinayphys.github.io/discussion2019/2019/10/lipid_classification_ML). 
 
 [Slides](https://github.com/vinayphys/discussion2019/blob/master/slides/vinay_discussion2019_3.pdf) from the discussion by Vinay on ["Rigidity transition in biological tissues"](https://vinayphys.github.io/discussion2019/2019/09/Rigidity_transition). 
 
