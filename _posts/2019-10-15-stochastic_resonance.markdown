@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stochastic Resonance"
-date:   2019-10-01 18:52:21 -0500
+date:   2019-10-15 18:52:21 -0500
 ---
 This week [Chandrashekar](https://www.imsc.res.in/chandrashekar_k) will talk about stochastic resonance (SR). It is a phenomenon where a signal which is typically too weak to be detected by a sensor can be detected on addition of white noise. Unlike the usual bad reputation noise has with respect to making measurements here in this phenomenon the noise plays a positive role. He will demonstrate it using a simple example of ball stuck in a double well potential subjected to a periodic signal.   
 
