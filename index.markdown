@@ -11,8 +11,7 @@ This page contains the details that come out of the discussions held almost ever
 
 Some of the speakers listed below have volunteered to lead a set of discussions on the topic of their choice:
 
-Chandrani	:	Machine learning in healthcare   
-Devanand	:	“Water-free” computer model for fluid bilayer membranes  
+Chandrani	:	Machine learning in healthcare    
 Pavitra		:	Genome Instabilities  
 Rakshika  : Memory and plsticity  
 Sreevidya	:	Intinsic disordered proteins - an enigma!  
