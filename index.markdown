@@ -21,9 +21,9 @@ This season will be mainly focused on different aspects of non-equilibrium stati
 
 ## The Upcoming Discussion:
 Speaker :      [Rahul Dandekar](https://www.imsc.res.in/rahul_sunil_dandekar)  
-Date    :      January 18, 2020, Saturday
-Time    :      16:00
-Venue   :      Room No. 326 or 327  
+Date    :      January 18, 2020, Saturday 
+Time    :      16:00 
+Venue   :      Room No. 326 or 327   
 [More details](https://vinayphys.github.io/discussion2020/2020/01/Introduction-Nonequilibrium)
 
 If you also want to be the part of the discussion group then please mail us with the details.
