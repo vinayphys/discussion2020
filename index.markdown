@@ -7,19 +7,20 @@ subtitle: Condensed Matter and Biological Physics
 
 This page contains the details that come out of the discussions held almost every week on Saturday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
+If you also want to be the part of the discussion group then please mail us with the details.
+
 ## Discussions May Include:
 * Brownian motion and Langevin Equation
 * Fokker-Planck Equation
 * Linear Response Theory
 * Boltzmann Transport Equation
-* Stochastic Dynamics
 * Phase-Ordering Kinetics
 * Pattern Formation
-
-If you also want to be the part of the discussion group then please mail us with the details.
+* Large Deviation Theory
+* Stochastic Thermodynamics
 
 ## The Upcoming Discussion:
-Speaker :      [vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
+Speaker :      [Rahul Dandekar](https://www.imsc.res.in/rahul_sunil_dandekar)  
 Date    :      January 18, 2020, Saturday
 Time    :      16:00
 Venue   :      Room No. 326 or 327  
