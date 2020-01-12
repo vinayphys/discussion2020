@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "xyz"
+title:  "Intro"
 date:   2020-01-18 18:52:21 -0500
 ---
 [Vinay](https://www.imsc.res.in/~vinayv/) will initiate the first discussion of this season. He will be talking about an aspect of developmental biology where researchers have shown a similarity between micromechanical movements of embryonic cells and glassy dynamics. The tools from glassy physics can help in understanding the behavioral change of a group of cells from fluid-like to solid-like. Such a study is expected to reveal the intricacies of organs gaining their shape during embryonic development. 
