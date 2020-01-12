@@ -14,10 +14,10 @@ This season will be mainly focused on different aspects of non-equilibrium stati
 * Fokker-Planck Equation
 * Linear Response Theory
 * Boltzmann Transport Equation
-* Phase-Ordering Kinetics
-* Pattern Formation
 * Large Deviation Theory
 * Stochastic Thermodynamics
+* Phase-Ordering Kinetics
+* Pattern Formation
 
 ## The Upcoming Discussion:
 Speaker :      [Rahul Dandekar](https://www.imsc.res.in/rahul_sunil_dandekar)   
