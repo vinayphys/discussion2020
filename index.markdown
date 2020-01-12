@@ -5,9 +5,7 @@ subtitle: Condensed Matter and Biological Physics
 ---
 # A Discussion Group of Graduate Students at IMSc
 
-This page contains the details that come out of the discussions held almost every week on Saturday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
-
-If you also want to be the part of the discussion group then please mail us with the details.
+This page contains the details that come out of the discussions held almost every week on Saturday at [IMSc Chennai](https://www.imsc.res.in/). A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion. This season will be mainly focused on different aspects of non-equilibrium statistical mechanics.
 
 ## Discussions May Include:
 * Brownian motion and Langevin Equation
@@ -24,8 +22,9 @@ Speaker :      [Rahul Dandekar](https://www.imsc.res.in/rahul_sunil_dandekar)
 Date    :      January 18, 2020, Saturday
 Time    :      16:00
 Venue   :      Room No. 326 or 327  
-[More details](https://vinayphys.github.io/discussion2020/...)
+[More details](https://vinayphys.github.io/discussion2020/2020/01/Introduction-Nonequilibrium)
 
+If you also want to be the part of the discussion group then please mail us with the details.
 
 ## Slides/Notes from previous discussions: 
   
