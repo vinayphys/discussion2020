@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Langevin Description of Brownian Motion"
+date:   2020-01-18 18:52:21 -0500
+---
+Now a set of talks will be delivered by [Umang](https://www.imsc.res.in/umang_dattani). He will be talking about Langevin equation approach to treat nonequilibrium dynamics for a Brownian particle. His discussion will roughly cover following topics: 
+
+* Solution of Langevin equation
+* Fluctuation dissipation theorem and detailed balance
+* Stokes-Einstein relations
+* Mathematical aspects of a Stochastic Differential equation
+* A brief introduction to simulations of Langevin equation
+* Types of Langevin equations
+
+## Time and venue for the Discussion:
+**Time:** Saturday (Jan. 25, 2020), 4:00 PM  
+**Venue:** 326/327  
+
+## Some references for the discussion:
+
+* Nonequilibrium statistical physics: a modern perspective by R Livi and P Politi.
+
+* Chandrasekhar, Subrahmanyan. ["Stochastic problems in physics and astronomy."](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.15.1) Reviews of modern physics 15.1 (1943): 1.
+
+* Risken, Hannes. "Fokker-planck equation.[" The Fokker-Planck Equation](https://link.springer.com/chapter/10.1007/978-3-642-61544-3_4). Springer Berlin Heidelberg, 1996. 63-95.
+
+* Van Kampen, Nicolaas Godfried. [Stochastic processes in physics and chemistry](https://books.google.co.in/books?hl=en&lr=&id=3e7XbMoJzmoC&oi=fnd&pg=PP2&dq=van+kampen+stochastic+processes+in+physics&ots=Ads9r_tdrO&sig=qm0CSshu6JUKsP9cHgkkVO_u-9g#v=onepage&q=van%20kampen%20stochastic%20processes%20in%20physics&f=false). Vol. 1. Elsevier, 1992.
+
+* Balakrishnan, Venkataraman. Elements of nonequilibrium statistical mechanics. Ane Books, 2008.
+APA	
+
+
+For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
