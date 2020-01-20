@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Langevin Description of Brownian Motion"
-date:   2020-01-18 18:52:21 -0500
+date:   2020-01-25 18:52:21 -0500
 ---
 Now a set of talks will be delivered by [Umang](https://www.imsc.res.in/umang_dattani). He will be talking about Langevin equation approach to treat nonequilibrium dynamics for a Brownian particle. His discussion will roughly cover following topics: 
 
