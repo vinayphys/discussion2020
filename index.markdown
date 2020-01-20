@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Discussion Group  
-subtitle: Condensed Matter and Biological Physics
+subtitle: Non-equilibrium Statistical Physics
 ---
 # A Discussion Group of Graduate Students at IMSc
 
