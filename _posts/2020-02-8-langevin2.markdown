@@ -3,7 +3,7 @@ layout: post
 title:  "Langevin Description of Brownian Motion"
 date:   2020-02-08 18:52:21 -0500
 ---
-Next will be delivered by [Vinay](https://www.imsc.res.in/~vinayv/). He will extend the discussion on Langevin equation approach to treat nonequilibrium dynamics for a Brownian particle. He will roughly cover following topics:
+Next talk will be delivered by [Vinay](https://www.imsc.res.in/~vinayv/). He will extend the discussion on Langevin equation approach to treat nonequilibrium dynamics for a Brownian particle. He will roughly cover following topics:
 
 * Revisit Langevin equation, Fluctuation dissipation theorem and Stokes-Einstein relations
 * Diffusion equation: Solving the differential equation
