@@ -20,11 +20,11 @@ This season will be mainly focused on different aspects of non-equilibrium stati
 * Pattern Formation
 
 ## The Upcoming Discussion:
-Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)   
-Date    :      February 08, 2020, Saturday  
+Speaker :      [Rahul Dandekar](https://www.imsc.res.in/rahul_sunil_dandekar)   
+Date    :      February 15, 2020, Saturday  
 Time    :      16:00  
 Venue   :      Room No. 326 or 327    
-[More details](https://vinayphys.github.io/discussion2020/2020/02/langevin2)
+[More details](https://vinayphys.github.io/discussion2020/2020/02/ising)
 
 If you also want to be the part of the discussion group then please mail us with the details.
 
