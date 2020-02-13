@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hysteresis in the Ising model"
+date:   2020-02-15 18:52:21 -0500
+---
+Next talk will be delivered by [Rahul](https://www.imsc.res.in/rahul_sunil_dandekar). 
+
+**Abstract:** I will talk about hysteresis and avalanches in the random field Ising model in 1D and on the Bethe Lattice.
+
+## Time and venue for the Discussion:
+**Time:** Saturday (Feb. 15, 2020), 4:00 PM  
+**Venue:** 326/327  
+
+## Some references for the discussion:
+
+
+For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
