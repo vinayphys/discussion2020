@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Fokker-Planck Equation"
+date:   2020-02-29 18:52:21 -0500
+---
+Next talk will be delivered by [Sayantan](https://www.imsc.res.in/sayantan_ghosh). 
+
+**Abstract:** I will talk about Master equation and/or Fokker-Planck equation and which will be followed by a brief discussion on Markov process and SDEs in general.
+
+## Time and venue for the Discussion:
+**Time:** Saturday (Feb. 29, 2020), 4:00 PM  
+**Venue:** 326/327  
+
+## Some references for the discussion:
+
+
+For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
